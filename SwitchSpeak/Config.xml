@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application>
+  <name>SwitchSpeak</name>
+  <appid>651EEFBE-8251-44E5-B28F-3300D6CFFC64</appid>
+  <filename>SwitchSpeak.exe</filename>
+  <icon>
+    <img src="teamspeak.png"/>
+  </icon>
+  <version>1.0.0.2</version>
+  <author>
+    <name>MeeKaaH</name>
+    <company>CodeLogic</company>
+  </author>
+  <description>Simple app to see teamspeak 3 friends in server. Shows friends talk indicator. Has the ability to move you to another channel by tapping on it (if you have the rights).</description>
+</application>
